@@ -71,8 +71,8 @@ Each algorithm is implemented as a standalone `.c` file with clear instructions 
 
 ## 👨‍🎓 Author
 
-Developed by **[Your Name]**  
-FACENS – Engenharia
+Developed by **[Ronaldo Simeone]**  
+FACENS – Engenharia da Computação
 
 ---
 
