@@ -14,10 +14,10 @@ This repository includes the following numerical methods:
 
 | Category               | Algorithms Implemented                                      |
 |------------------------|-------------------------------------------------------------|
-| 🧮 Root-finding         | Bisection Method (a.k.a. Dichotomy)                         |
-| 📈 Polynomial Interpolation | Lagrange Interpolation                               |
-| 🧾 Numerical Integration | Trapezoidal Rule, Simpson's Rule                         |
-| 🔢 Linear Systems       | Gauss Elimination, LU Decomposition                        |
+| [X] 🧮 Root-finding         | Bisection Method (a.k.a. Dichotomy)                         |
+| [ ] 📈 Polynomial Interpolation | Lagrange Interpolation                               |
+| [ ] 🧾 Numerical Integration | Trapezoidal Rule, Simpson's Rule                         |
+| [ ] 🔢 Linear Systems       | Gauss Elimination, LU Decomposition                        |
 
 ---
 
