@@ -50,7 +50,7 @@ Each algorithm is implemented as a standalone `.c` file with clear instructions 
 
 | Algorithm                            | Status    | File                 |
 |-------------------------------------|-----------|----------------------|
-| Bisection Method (Root-finding)     | ✅ Done   | `bisection.c`        |
+| Dichotomy Method (Root-finding)     | ✅ Done   | `dichotomy.c`        |
 | Lagrange Interpolation              | ⬜ Coming | `lagrange.c`         |
 | Trapezoidal Rule (Integration)      | ⬜ Coming | `trapezoidal.c`      |
 | Simpson’s Rule (Integration)        | ⬜ Coming | `simpson.c`          |
