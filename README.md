@@ -51,7 +51,7 @@ Each algorithm is implemented as a standalone `.c` file with clear instructions 
 | Algorithm                            | Status    | File                 |
 |-------------------------------------|-----------|----------------------|
 | Dichotomy Method (Root-finding)     | ✅ Done   | `dichotomy.c`        |
-| Lagrange Interpolation              | ⬜ Coming | `lagrange.c`         |
+| Lagrange Interpolation              | ✅ Done   | `lagrange.c`         |
 | Trapezoidal Rule (Integration)      | ⬜ Coming | `trapezoidal.c`      |
 | Simpson’s Rule (Integration)        | ⬜ Coming | `simpson.c`          |
 | Gauss Elimination (Linear Systems)  | ⬜ Coming | `gauss_elimination.c`|
