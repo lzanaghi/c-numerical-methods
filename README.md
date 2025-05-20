@@ -52,9 +52,9 @@ Each algorithm is implemented as a standalone `.c` file with clear instructions 
 |-------------------------------------|-----------|----------------------|
 | Dichotomy Method (Root-finding)     | ✅ Done   | `dichotomy.c`        |
 | Lagrange Interpolation              | ✅ Done   | `lagrange.c`         |
-| Trapezoidal Rule (Integration)      | ⬜ Coming | `trapezoidal.c`      |
+| Trapezoidal Rule (Integration)      | ✅ Done   | `trapezoidal.c`      |
 | Simpson’s Rule (Integration)        | ⬜ Coming | `simpson.c`          |
-| Gauss Elimination (Linear Systems)  | ⬜ Coming | `gauss_elimination.c`|
+| Gauss Elimination (Linear Systems)  | ✅ Done   | `gauss_elimination.c`|
 | LU Decomposition (Linear Systems)   | ⬜ Coming | `lu_decomposition.c` |
 
 > Each file will include instructions, modular code, and examples to guide the user.
